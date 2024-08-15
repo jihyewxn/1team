@@ -1,0 +1,28 @@
+{
+    "myprofile" : [
+        {"id" : "1", "name" : "이름", "value" : "김동주"},
+        {"id" : "2", "name" : "닉네임", "value" : "김동주"},
+        {"id" : "3", "name" : "생년월일", "value" : "2002.02.14"},
+        {"id" : "4", "name" : "소속", "value" : "두산베어스"},
+        {"id" : "5", "name" : "취미", "value" : "야구"},
+        {"id" : "6", "name" : "특기", "value" : "선발로 나와서 4실점"},
+        {"id" : "7", "name" : "연락처", "value" : "몰라요~"},
+        {"id" : "8", "name" : "인스타 아이디", "value" : "ju_______41"}
+    ],
+    "wise" : [
+        {"content" : "경력 : 갈산초-양천중-선린인터넷고-두산베어스"},
+        {"content" : "지명순위 : 2021년 두산 2차 1라운드 10순위 "},
+        {"content" : "등번호 : NO.41"},
+        {"content" : "신장/체중 : 190cm/90kg"},
+        {"content" : "연봉 : 5500만원"},
+        {"content" : "통산기록: EAR 5.46"}
+    ],
+    "friend" : [
+        {"id" : "1", "name" : "최지강", "url" : "https://www.koreabaseball.com/Record/Player/PitcherDetail/Basic.aspx?playerId=52206"},
+        {"id" : "2", "name" : "김택연", "url" : "https://www.koreabaseball.com/Record/Player/PitcherDetail/Basic.aspx?playerId=54263"},
+        {"id" : "3", "name" : "이병헌", "url" : "https://www.koreabaseball.com/Record/Player/PitcherDetail/Basic.aspx?playerId=52204"},
+        {"id" : "4", "name" : "최승용", "url" : "https://www.koreabaseball.com/Record/Player/PitcherDetail/Basic.aspx?playerId=51264"},
+        {"id" : "5", "name" : "이교훈", "url" : "https://www.koreabaseball.com/Record/Player/PitcherDetail/Basic.aspx?playerId=69205"}
+    ]
+}
+
